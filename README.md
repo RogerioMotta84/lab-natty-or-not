@@ -7,6 +7,7 @@ Video de um avatar virtual, utilizando minha foto
 ## 🤖 Tecnologias Utilizadas
 
  ChatGPT
+ 
  D-ID
 
 ## 🧐 Processo de Criação
