@@ -6,9 +6,8 @@ Video de um avatar virtual, utilizando minha foto
 
 ## 🤖 Tecnologias Utilizadas
 
- ChatGPT
- 
- D-ID
+ - ChatGPT
+ - D-ID
 
 ## 🧐 Processo de Criação
 O vídeo apresenta um avatar virtual com voz sintetizada pelo D-ID, criado com o apoio do ChatGPT para roteirização. 
